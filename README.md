@@ -13,9 +13,8 @@
 
 - 📝 I am planning to write articles on [https://medium.com/@sanchawla17](https://medium.com/@sanchawla17)
 
-- 📫 How to reach me **sanchawla17@gmail.com**
+- 📫 Reach me at **sanchawla17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rBaSm3YIdK0bDCTZgL3FR6LgrS4hcHIi/view?usp=sharing](https://drive.google.com/file/d/1rBaSm3YIdK0bDCTZgL3FR6LgrS4hcHIi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
