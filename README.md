@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanchawla17](https://github.com/sanchawla17)
 
-- 📝 I am planning to write articles on [https://medium.com/@sanchawla17](https://medium.com/@sanchawla17)
+- 📝 I write articles on [https://medium.com/@sanchawla17](https://medium.com/@sanchawla17)
 
 - 📫 Reach me at **sanchawla17@gmail.com**
 
