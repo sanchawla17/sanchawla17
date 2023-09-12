@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sanyam Chawla</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair&weight=600&size=27&duration=4000&pause=750&color=5BF0E9&center=true&vCenter=true&width=450&height=40&lines=Namaste+%2C+It's+nice+to+meet+you+%E2%9D%A4%EF%B8%8F;A+passionate+programmer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Self+taught+front+end+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Computer+Science+Student+%F0%9F%92%BB;(%E3%81%A3%E2%97%94%E2%97%A1%E2%97%94)%E3%81%A3+%E2%99%A5++%F0%9D%95%80+%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A7%F0%9D%95%96+%F0%9D%95%A5%F0%9D%95%A0+%F0%9D%95%94%F0%9D%95%A0%F0%9D%95%95%F0%9D%95%96++%E2%99%A5" alt="Typing SVG" /></a></h3>
 
-[![](https://visitcount.itsvg.in/api?id=sanchawla17&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanchawla17&label=Profile%20views&color=0e75b6&style=flat" alt="sanchawla17" /> </p>
 
 -  <img src="https://media.tenor.com/qfIdK2F8hroAAAAi/kater-work-kater.gif" width=35px> I’m currently working on [100DaysOfCoding](https://github.com/sanchawla17/100DaysOfCoding)
 
