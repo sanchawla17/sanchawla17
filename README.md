@@ -5,7 +5,7 @@
 
 -  <img src="https://media.tenor.com/qfIdK2F8hroAAAAi/kater-work-kater.gif" width=35px> I’m currently working on [100DaysOfCoding](https://github.com/sanchawla17/100DaysOfCoding)
 
--  <img src="https://media.tenor.com/svF4QQ7YGPIAAAAi/reading-learning.gif" width=35px> I’m currently learning **Backend Web Development and Machine Learning**
+-  <img src="https://media.tenor.com/svF4QQ7YGPIAAAAi/reading-learning.gif" width=35px> I’m currently learning **Full Stack Web Development and Machine Learning**
 
 - <img src="https://media.tenor.com/L1A0_Mcdo7cAAAAi/dm4uz3-foekoe.gif" width=35px> I’m looking to collaborate on **projects and contests**
 
