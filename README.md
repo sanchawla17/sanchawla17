@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanchawla17&label=Profile%20views&color=0e75b6&style=flat" alt="sanchawla17" /> </p>
 
--  <img src="https://media.tenor.com/qfIdK2F8hroAAAAi/kater-work-kater.gif" width=35px> I’m currently working on [100DaysOfCoding](https://github.com/sanchawla17/100DaysOfCoding)
+-  <img src="https://media.tenor.com/qfIdK2F8hroAAAAi/kater-work-kater.gif" width=35px> I’m currently working on [Striver’s SDE Sheet]([https://github.com/sanchawla17/100DaysOfCoding](https://github.com/sanchawla17/Coding-Sheets/tree/main/Striver%E2%80%99s%20SDE%20Sheet))
 
 -  <img src="https://media.tenor.com/svF4QQ7YGPIAAAAi/reading-learning.gif" width=35px> I’m currently learning **Full Stack Web Development and Machine Learning**
 
