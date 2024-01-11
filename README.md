@@ -7,7 +7,7 @@
 
 -  <img src="https://media.tenor.com/svF4QQ7YGPIAAAAi/reading-learning.gif" width=35px> I’m currently learning **Full Stack Web Development and Machine Learning**
 
-- <img src="https://media.tenor.com/L1A0_Mcdo7cAAAAi/dm4uz3-foekoe.gif" width=35px> I’m looking to collaborate on **projects and contests**
+- <img src="https://media.tenor.com/L1A0_Mcdo7cAAAAi/dm4uz3-foekoe.gif" width=35px> I’m looking to collaborate on **projects and contests**  
 
 - <img src="https://media.tenor.com/ZjbA7poXBnkAAAAi/smiling-cat-cat.gif" width=35px> All of my projects are available at [https://github.com/sanchawla17](https://github.com/sanchawla17)
 
