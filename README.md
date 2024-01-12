@@ -12,7 +12,7 @@
 - <img src="https://media.tenor.com/ZjbA7poXBnkAAAAi/smiling-cat-cat.gif" width=35px> All of my projects are available at [https://github.com/sanchawla17](https://github.com/sanchawla17)
 
 - <img src="https://media.tenor.com/-qgiV5fFGskAAAAi/dm4uz3-foekoe.gif" width=35px> I write articles on [https://medium.com/@sanchawla17](https://medium.com/@sanchawla17)
-
+      
 - <img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  width=35px> Reach me at **sanchawla17@gmail.com**
 
 # <img src="https://media.tenor.com/b3EMWPy6aoYAAAAi/nuevacreative-earth.gif"  width=37px> Socials:
