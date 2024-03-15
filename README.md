@@ -13,7 +13,7 @@
 
 - <img src="https://media.tenor.com/-qgiV5fFGskAAAAi/dm4uz3-foekoe.gif" width=35px> I write articles on [https://medium.com/@sanchawla17](https://medium.com/@sanchawla17)
       
-- <img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  width=35px> Reach me at **sanchawla17@gmail.com**
+- <img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  width=35px> Contact me [sanyamchawla.netlify.app](https://sanyamchawla.netlify.app)
 
 # <img src="https://media.tenor.com/b3EMWPy6aoYAAAAi/nuevacreative-earth.gif"  width=37px> Socials:
 <p align="left">
