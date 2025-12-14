@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanchawla17&label=Profile%20views&color=0e75b6&style=flat" alt="sanchawla17" /> </p>
 
--  <img src="https://media.tenor.com/qfIdK2F8hroAAAAi/kater-work-kater.gif" width=35px> I’m currently working on [Striver’s SDE Sheet]([https://github.com/sanchawla17/100DaysOfCoding](https://github.com/sanchawla17/Coding-Sheets/tree/main/Striver%E2%80%99s%20SDE%20Sheet))
+-  <img src="https://media.tenor.com/qfIdK2F8hroAAAAi/kater-work-kater.gif" width=35px> I’m currently working on a project
 
--  <img src="https://media.tenor.com/svF4QQ7YGPIAAAAi/reading-learning.gif" width=35px> I’m currently learning **Full Stack Web Development and Machine Learning**
+-  <img src="https://media.tenor.com/svF4QQ7YGPIAAAAi/reading-learning.gif" width=35px> I’m currently learning **Full Stack Web Development and AI**
 
-- <img src="https://media.tenor.com/L1A0_Mcdo7cAAAAi/dm4uz3-foekoe.gif" width=35px> I’m looking to collaborate on **projects and contests**  
+- <img src="https://media.tenor.com/L1A0_Mcdo7cAAAAi/dm4uz3-foekoe.gif" width=35px> I’m open to collaborate on **projects**  
 
 - <img src="https://media.tenor.com/ZjbA7poXBnkAAAAi/smiling-cat-cat.gif" width=35px> All of my projects are available at [https://github.com/sanchawla17](https://github.com/sanchawla17)
 
